@@ -7,7 +7,7 @@ module MicrosoftOpenData
 
       def connection
         Faraday.new(:url => 'http://ogdi.cloudapp.net/v1/') do |connection|
-          connection.use Faraday::Request::UrlEncoded
+          connection.use Faraday::Request::Multipart
           connection.use Faraday::Response::RaiseError
           connection.use Faraday::Response::Rashify
           connection.use Faraday::Response::ParseXml
