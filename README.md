@@ -29,4 +29,4 @@ This template includes:
 [yard]: https://github.com/lsegal/yard
 
 
-[![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/gem_template.png)](http://stats.codeforamerica.org/projects/gem_template)
+[![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/microsoft_open_data_ruby.png)](http://stats.codeforamerica.org/projects/microsoft_open_data_ruby)
