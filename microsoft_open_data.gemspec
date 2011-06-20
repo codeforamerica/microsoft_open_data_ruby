@@ -7,8 +7,8 @@ Gem::Specification.new do |gem|
   gem.author      = "Code for America"
   gem.email       = 'info@codeforamerica.org'
   gem.homepage    = ''
-  gem.summary     = %q{TODO: Write a gem summary}
-  gem.description = %q{TODO: Write a gem description}
+  gem.summary     = %q{Ruby wrapper for Microsoft Open Government Initiative}
+  gem.description = %q{Simple wrapper to access data from the Microsoft Open Government Initiative}
 
   gem.files         = `git ls-files`.split("\n")
   gem.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
