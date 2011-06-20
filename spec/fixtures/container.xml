@@ -1,0 +1,29 @@
+<service xmlns:atom="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2007/app" xml:base="http://ogdi.cloudapp.net/v1/">
+	<workspace>
+		<atom:title>Default</atom:title>
+		<collection href="bls">
+			<atom:title>Bureau of Labor Statistics</atom:title>
+			<accept>application/atomsvc+xml</accept>
+		</collection>
+		<collection href="dc">
+			<atom:title>District of Columbia</atom:title>
+			<accept>application/atomsvc+xml</accept>
+		</collection>
+		<collection href="gsa">
+			<atom:title>General Services Administration</atom:title>
+			<accept>application/atomsvc+xml</accept>
+		</collection>
+		<collection href="naf">
+			<atom:title>New America Foundation</atom:title>
+			<accept>application/atomsvc+xml</accept>
+		</collection>
+		<collection href="ukcots">
+			<atom:title>UK Cabinet Office Technical Standards</atom:title>
+			<accept>application/atomsvc+xml</accept>
+		</collection>
+		<collection href="usgs">
+			<atom:title>U.S. Geological Survey</atom:title>
+			<accept>application/atomsvc+xml</accept>
+		</collection>
+	</workspace>
+</service>

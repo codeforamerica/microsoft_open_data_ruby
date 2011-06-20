@@ -1,0 +1,188 @@
+<service xmlns:atom="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns="http://www.w3.org/2007/app" xml:base="http://ogdi.cloudapp.net/v1/dc">
+	<workspace>
+		<atom:title>Default</atom:title>
+		<collection href="AmbulatorySurgicalCenters">
+			<atom:title>AmbulatorySurgicalCenters</atom:title>
+		</collection>
+		<collection href="BankLocations">
+			<atom:title>BankLocations</atom:title>
+		</collection>
+		<collection href="BuildingPermits">
+			<atom:title>BuildingPermits</atom:title>
+		</collection>
+		<collection href="CensusTracts1990">
+			<atom:title>CensusTracts1990</atom:title>
+		</collection>
+		<collection href="CensusTracts2000">
+			<atom:title>CensusTracts2000</atom:title>
+		</collection>
+		<collection href="CharterSchools">
+			<atom:title>CharterSchools</atom:title>
+		</collection>
+		<collection href="ChildCareCenters">
+			<atom:title>ChildCareCenters</atom:title>
+		</collection>
+		<collection href="CommunityGardens">
+			<atom:title>CommunityGardens</atom:title>
+		</collection>
+		<collection href="CompletedConstructionProjects2003">
+			<atom:title>CompletedConstructionProjects2003</atom:title>
+		</collection>
+		<collection href="CompletedConstructionProjects2004">
+			<atom:title>CompletedConstructionProjects2004</atom:title>
+		</collection>
+		<collection href="CompletedConstructionProjects2005">
+			<atom:title>CompletedConstructionProjects2005</atom:title>
+		</collection>
+		<collection href="CompletedConstructionProjects2006">
+			<atom:title>CompletedConstructionProjects2006</atom:title>
+		</collection>
+		<collection href="CompletedConstructionProjects2007">
+			<atom:title>CompletedConstructionProjects2007</atom:title>
+		</collection>
+		<collection href="CompletedConstructionProjects2008">
+			<atom:title>CompletedConstructionProjects2008</atom:title>
+		</collection>
+		<collection href="CompletedConstructionProjects2009">
+			<atom:title>CompletedConstructionProjects2009</atom:title>
+		</collection>
+		<collection href="CrimeIncidents">
+			<atom:title>CrimeIncidents</atom:title>
+		</collection>
+		<collection href="CurrentConstructionProjects">
+			<atom:title>CurrentConstructionProjects</atom:title>
+		</collection>
+		<collection href="DcGovernmentLocations">
+			<atom:title>DcGovernmentLocations</atom:title>
+		</collection>
+		<collection href="DialysisClinics">
+			<atom:title>DialysisClinics</atom:title>
+		</collection>
+		<collection href="ElementarySchoolAttendanceZones">
+			<atom:title>ElementarySchoolAttendanceZones</atom:title>
+		</collection>
+		<collection href="FireStations">
+			<atom:title>FireStations</atom:title>
+		</collection>
+		<collection href="GasStations">
+			<atom:title>GasStations</atom:title>
+		</collection>
+		<collection href="HalfwayHouses">
+			<atom:title>HalfwayHouses</atom:title>
+		</collection>
+		<collection href="HistoricAreas">
+			<atom:title>HistoricAreas</atom:title>
+		</collection>
+		<collection href="HistoricDistricts">
+			<atom:title>HistoricDistricts</atom:title>
+		</collection>
+		<collection href="HistoricStreetLines">
+			<atom:title>HistoricStreetLines</atom:title>
+		</collection>
+		<collection href="HistoricStructures">
+			<atom:title>HistoricStructures</atom:title>
+		</collection>
+		<collection href="HUBZones">
+			<atom:title>HUBZones</atom:title>
+		</collection>
+		<collection href="Hospitals">
+			<atom:title>Hospitals</atom:title>
+		</collection>
+		<collection href="Hotels">
+			<atom:title>Hotels</atom:title>
+		</collection>
+		<collection href="ITSAAwardedEngagements">
+			<atom:title>ITSAAwardedEngagements</atom:title>
+		</collection>
+		<collection href="IndependentSchools">
+			<atom:title>IndependentSchools</atom:title>
+		</collection>
+		<collection href="JuvenileArrestsCharges">
+			<atom:title>JuvenileArrestsCharges</atom:title>
+		</collection>
+		<collection href="LandmarkAreas">
+			<atom:title>LandmarkAreas</atom:title>
+		</collection>
+		<collection href="MetroBusStops">
+			<atom:title>MetroBusStops</atom:title>
+		</collection>
+		<collection href="MetroParkAndRideLots">
+			<atom:title>MetroParkAndRideLots</atom:title>
+		</collection>
+		<collection href="MetroStations">
+			<atom:title>MetroStations</atom:title>
+		</collection>
+		<collection href="MiddleSchoolAttendanceZones">
+			<atom:title>MiddleSchoolAttendanceZones</atom:title>
+		</collection>
+		<collection href="NeighborhoodClusters">
+			<atom:title>NeighborhoodClusters</atom:title>
+		</collection>
+		<collection href="Parks">
+			<atom:title>Parks</atom:title>
+		</collection>
+		<collection href="PlacesOfWorship">
+			<atom:title>PlacesOfWorship</atom:title>
+		</collection>
+		<collection href="PoliceDistricts">
+			<atom:title>PoliceDistricts</atom:title>
+		</collection>
+		<collection href="PoliceServiceAreas">
+			<atom:title>PoliceServiceAreas</atom:title>
+		</collection>
+		<collection href="PoliceStations">
+			<atom:title>PoliceStations</atom:title>
+		</collection>
+		<collection href="PostOffices">
+			<atom:title>PostOffices</atom:title>
+		</collection>
+		<collection href="PrimaryCareCenters">
+			<atom:title>PrimaryCareCenters</atom:title>
+		</collection>
+		<collection href="PublicLibraries">
+			<atom:title>PublicLibraries</atom:title>
+		</collection>
+		<collection href="PublicSchools">
+			<atom:title>PublicSchools</atom:title>
+		</collection>
+		<collection href="PublicSpacePermits">
+			<atom:title>PublicSpacePermits</atom:title>
+		</collection>
+		<collection href="PurchaseOrders">
+			<atom:title>PurchaseOrders</atom:title>
+		</collection>
+		<collection href="RecreationFacilities">
+			<atom:title>RecreationFacilities</atom:title>
+		</collection>
+		<collection href="RecreationParks">
+			<atom:title>RecreationParks</atom:title>
+		</collection>
+		<collection href="RedLightCameras">
+			<atom:title>RedLightCameras</atom:title>
+		</collection>
+		<collection href="RegisteredProperties">
+			<atom:title>RegisteredProperties</atom:title>
+		</collection>
+		<collection href="SHSchoolAttendanceZones">
+			<atom:title>SHSchoolAttendanceZones</atom:title>
+		</collection>
+		<collection href="ServiceRequests">
+			<atom:title>ServiceRequests</atom:title>
+		</collection>
+		<collection href="ShopingCenters">
+			<atom:title>ShopingCenters</atom:title>
+		</collection>
+		<collection href="TrafficCameras">
+			<atom:title>TrafficCameras</atom:title>
+		</collection>
+		<collection href="UniversityLocations">
+			<atom:title>UniversityLocations</atom:title>
+		</collection>
+		<collection href="ZipCodes">
+			<atom:title>ZipCodes</atom:title>
+		</collection>
+		<collection href="ZoningDistricts">
+			<atom:title>ZoningDistricts</atom:title>
+		</collection>
+	</workspace>
+</service>
