@@ -27,4 +27,17 @@ describe MicrosoftOpenData::Client::Api do
     end
   end
   
+  describe ".query" do
+    before do
+      stub_get("dc/CrimeIncidents").
+        to_return(:status => 200, :body => fixture("query.xml"))
+    end
+    
+    it "should return the correct item" do
+      test = @client.query('dc', 'CrimeIncidents')
+      a_get("dc/CrimeIncidents").shoul have_been_made
+      test.service.should == 1
+    end
+  end
+  
 end

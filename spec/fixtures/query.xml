@@ -1,0 +1,1096 @@
+<feed xml:base="http://ogdi.cloudapp.net/v1/dc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">CrimeIncidents</title>
+  <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents/</id>
+  <updated>2011-06-20T21:29:25Z</updated>
+  <link rel="self" title="CrimeIncidents" href="CrimeIncidents" />
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A20.3306239Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-0400%3A00%3A00',RowKey='791055')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-0400%3A00%3A00',RowKey='791055')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-0400:00:00</d:PartitionKey>
+        <d:RowKey>791055</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:20.3306239Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">2d1ec5cd-8a91-4cd8-a221-24846065af6e</d:entityid>
+        <d:nid>791055</d:nid>
+        <d:ccn>10001547</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-04T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>ROBBERY</d:offense>
+        <d:method>ASSAULT W/INTENT</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-01-15T12:12:33Z</d:lastmodifieddate>
+        <d:blocksiteaddress>1000 B/O 12TH ST SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8753429713206</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9902699658738</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>6</d:ward>
+        <d:anc>6B</d:anc>
+        <d:smd>6B07</d:smd>
+        <d:district>FIRST</d:district>
+        <d:psa>106</d:psa>
+        <d:neighborhoodcluster>26</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A27.7047516Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-0600%3A00%3A00',RowKey='794549')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-0600%3A00%3A00',RowKey='794549')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-0600:00:00</d:PartitionKey>
+        <d:RowKey>794549</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:27.7047516Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">54f320a7-1773-43e3-af2e-26e6e005e5c1</d:entityid>
+        <d:nid>794549</d:nid>
+        <d:ccn>10002511</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-06T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>THEFT</d:offense>
+        <d:method>2</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-02-24T12:28:16Z</d:lastmodifieddate>
+        <d:blocksiteaddress>200 B/O 7TH ST SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8867135899811</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9961906417759</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>6</d:ward>
+        <d:anc>6B</d:anc>
+        <d:smd>6B02</d:smd>
+        <d:district>FIRST</d:district>
+        <d:psa>106</d:psa>
+        <d:neighborhoodcluster>26</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>CAPITOL HILL BID</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A23.4242328Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-0700%3A00%3A00',RowKey='792274')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-0700%3A00%3A00',RowKey='792274')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-0700:00:00</d:PartitionKey>
+        <d:RowKey>792274</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:23.4242328Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">c258e16a-368a-4d0d-824e-45939a4ec97b</d:entityid>
+        <d:nid>792274</d:nid>
+        <d:ccn>10002926</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-07T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>THEFT</d:offense>
+        <d:method>1</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-01-18T12:13:17Z</d:lastmodifieddate>
+        <d:blocksiteaddress>400 B/O 4TH ST NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8954355687424</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.016146506639</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>6</d:ward>
+        <d:anc>6C</d:anc>
+        <d:smd>6C09</d:smd>
+        <d:district>FIRST</d:district>
+        <d:psa>101</d:psa>
+        <d:neighborhoodcluster>8</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>DOWNTOWN BID</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A28.4541462Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-0800%3A00%3A00',RowKey='794536')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-0800%3A00%3A00',RowKey='794536')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-0800:00:00</d:PartitionKey>
+        <d:RowKey>794536</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:28.4541462Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">fecb360f-39cf-4c00-95c3-aca658309c2e</d:entityid>
+        <d:nid>794536</d:nid>
+        <d:ccn>10003497</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-08T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>BURGLARY</d:offense>
+        <d:method>2</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-02T12:15:45Z</d:lastmodifieddate>
+        <d:blocksiteaddress>200 B/O 37TH ST SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8875760352732</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9520234037357</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>7</d:ward>
+        <d:anc>7A</d:anc>
+        <d:smd>7A04</d:smd>
+        <d:district>SIXTH</d:district>
+        <d:psa>603</d:psa>
+        <d:neighborhoodcluster>32</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A28.0917129Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-0900%3A00%3A00',RowKey='794513')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-0900%3A00%3A00',RowKey='794513')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-0900:00:00</d:PartitionKey>
+        <d:RowKey>794513</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:28.0917129Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">5d7adb14-8de0-4297-92bc-7973527fb955</d:entityid>
+        <d:nid>794513</d:nid>
+        <d:ccn>10004022</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-09T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>ROBBERY</d:offense>
+        <d:method>CAR JACKING - GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-01-18T12:13:32Z</d:lastmodifieddate>
+        <d:blocksiteaddress>4400 B/O PONDS ST NE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.9115325753078</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9380005733343</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>7</d:ward>
+        <d:anc>7D</d:anc>
+        <d:smd>7D03</d:smd>
+        <d:district>SIXTH</d:district>
+        <d:psa>601</d:psa>
+        <d:neighborhoodcluster>29</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A14.5147524Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-1000%3A00%3A00',RowKey='100009144')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-1000%3A00%3A00',RowKey='100009144')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-1000:00:00</d:PartitionKey>
+        <d:RowKey>100009144</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:14.5147524Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">1ef0f32b-9e70-4a9c-81b1-16163426a2ac</d:entityid>
+        <d:nid>100009144</d:nid>
+        <d:ccn>10004366</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-10T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-01-11T12:23:32Z</d:lastmodifieddate>
+        <d:blocksiteaddress>2600 B/O NAYLOR RD SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8625260131452</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9697532298091</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>8</d:ward>
+        <d:anc>8B</d:anc>
+        <d:smd>8B01</d:smd>
+        <d:district>SIXTH</d:district>
+        <d:psa>606</d:psa>
+        <d:neighborhoodcluster>35</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A14.9709252Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-1200%3A00%3A00',RowKey='100009145')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-1200%3A00%3A00',RowKey='100009145')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-1200:00:00</d:PartitionKey>
+        <d:RowKey>100009145</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:14.9709252Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">36ea5e1c-889f-4b12-8b84-2a1c78f4f4e8</d:entityid>
+        <d:nid>100009145</d:nid>
+        <d:ccn>10005224</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-12T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-01-13T12:02:15Z</d:lastmodifieddate>
+        <d:blocksiteaddress>4700 B/O ALABAMA AVE SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8809814794026</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9392687351446</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>7</d:ward>
+        <d:anc>7A</d:anc>
+        <d:smd>7A01</d:smd>
+        <d:district>SIXTH</d:district>
+        <d:psa>604</d:psa>
+        <d:neighborhoodcluster>33</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.1837914Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-1300%3A00%3A00',RowKey='100009147')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-1300%3A00%3A00',RowKey='100009147')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-1300:00:00</d:PartitionKey>
+        <d:RowKey>100009147</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.1837914Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">cc68c054-b0e1-4574-aecd-b6a815053c2c</d:entityid>
+        <d:nid>100009147</d:nid>
+        <d:ccn>10005697</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-13T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-01-14T12:17:07Z</d:lastmodifieddate>
+        <d:blocksiteaddress>5400 B/O BLAINE ST NE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8914152384773</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9233683462127</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>7</d:ward>
+        <d:anc>7C</d:anc>
+        <d:smd>7C02</d:smd>
+        <d:district>SIXTH</d:district>
+        <d:psa>602</d:psa>
+        <d:neighborhoodcluster>31</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A42.0683151Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-2500%3A00%3A00',RowKey='799842')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-2500%3A00%3A00',RowKey='799842')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-2500:00:00</d:PartitionKey>
+        <d:RowKey>799842</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:42.0683151Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">b9ab0422-8c27-4448-b579-2849d20d734f</d:entityid>
+        <d:nid>799842</d:nid>
+        <d:ccn>10011442</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-25T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>THEFT F/AUTO</d:offense>
+        <d:method>ATTEMPT</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-01-28T12:16:58Z</d:lastmodifieddate>
+        <d:blocksiteaddress>600 B/O CHAPLIN ST SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8806730290883</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9405320736222</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>7</d:ward>
+        <d:anc>7A</d:anc>
+        <d:smd>7A02</d:smd>
+        <d:district>SIXTH</d:district>
+        <d:psa>604</d:psa>
+        <d:neighborhoodcluster>33</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A39.991909Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-2600%3A00%3A00',RowKey='799809')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-2600%3A00%3A00',RowKey='799809')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-2600:00:00</d:PartitionKey>
+        <d:RowKey>799809</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:39.991909Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">39e8dbaa-f53e-419e-88f6-629ff16bd45c</d:entityid>
+        <d:nid>799809</d:nid>
+        <d:ccn>10011728</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-26T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>THEFT</d:offense>
+        <d:method>1</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-08T12:26:57Z</d:lastmodifieddate>
+        <d:blocksiteaddress>1300 B/O PENNSYLVANIA AVE NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.896107368321</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.030733638414</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>2</d:ward>
+        <d:anc>2F</d:anc>
+        <d:smd>2F03</d:smd>
+        <d:district>FIRST</d:district>
+        <d:psa>101</d:psa>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>DOWNTOWN BID</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.2889252Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-2700%3A00%3A00',RowKey='100009150')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-2700%3A00%3A00',RowKey='100009150')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-2700:00:00</d:PartitionKey>
+        <d:RowKey>100009150</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.2889252Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a5856b11-86a9-4e41-9b60-1e97d3da147f</d:entityid>
+        <d:nid>100009150</d:nid>
+        <d:ccn>10012529</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-27T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-02-18T12:21:54Z</d:lastmodifieddate>
+        <d:blocksiteaddress>800 B/O BARNABY ST SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.830777665331</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9929124277797</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>8</d:ward>
+        <d:anc>8E</d:anc>
+        <d:smd>8E07</d:smd>
+        <d:district>SEVENTH</d:district>
+        <d:psa>706</d:psa>
+        <d:neighborhoodcluster>39</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A43.8999252Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-01-2800%3A00%3A00',RowKey='800622')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-01-2800%3A00%3A00',RowKey='800622')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-01-2800:00:00</d:PartitionKey>
+        <d:RowKey>800622</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:43.8999252Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">dbdc4164-011d-4930-a800-aa2166966547</d:entityid>
+        <d:nid>800622</d:nid>
+        <d:ccn>10012648</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-01-28T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>THEFT</d:offense>
+        <d:method>1</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-08T12:26:57Z</d:lastmodifieddate>
+        <d:blocksiteaddress>1200 B/O K ST NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.9025242774497</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0288535663854</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>2</d:ward>
+        <d:anc>2F</d:anc>
+        <d:smd>2F03</d:smd>
+        <d:district>FIRST</d:district>
+        <d:psa>101</d:psa>
+        <d:neighborhoodcluster>8</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>DOWNTOWN BID</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A14.7347744Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-02-0300%3A00%3A00',RowKey='100009152')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-02-0300%3A00%3A00',RowKey='100009152')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-02-0300:00:00</d:PartitionKey>
+        <d:RowKey>100009152</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:14.7347744Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">f8b8177e-04f4-487b-abcf-7e5aecfa3b5c</d:entityid>
+        <d:nid>100009152</d:nid>
+        <d:ccn>10015494</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-02-03T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>OTHER</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-02-18T12:21:54Z</d:lastmodifieddate>
+        <d:blocksiteaddress>2800 B/O 14TH ST NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.9260668656901</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0323726203146</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>1</d:ward>
+        <d:anc>1B</d:anc>
+        <d:smd>1B07</d:smd>
+        <d:district>THIRD</d:district>
+        <d:psa>304</d:psa>
+        <d:neighborhoodcluster>2</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A50.7513936Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-02-0900%3A00%3A00',RowKey='804809')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-02-0900%3A00%3A00',RowKey='804809')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-02-0900:00:00</d:PartitionKey>
+        <d:RowKey>804809</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:50.7513936Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">be4f86ec-c04c-4ead-a918-a5265201eb5c</d:entityid>
+        <d:nid>804809</d:nid>
+        <d:ccn>10017450</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-02-09T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>ADW</d:offense>
+        <d:method>OTHER</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-08T12:26:57Z</d:lastmodifieddate>
+        <d:blocksiteaddress>400 B/O 19TH ST SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8834272074614</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9772601583128</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>6</d:ward>
+        <d:anc>6B</d:anc>
+        <d:smd>6B11</d:smd>
+        <d:district>FIRST</d:district>
+        <d:psa>107</d:psa>
+        <d:neighborhoodcluster>26</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.4059925Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-02-2100%3A00%3A00',RowKey='100009155')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-02-2100%3A00%3A00',RowKey='100009155')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-02-2100:00:00</d:PartitionKey>
+        <d:RowKey>100009155</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.4059925Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">b34d9ef5-1015-4511-8114-7bb122a7e310</d:entityid>
+        <d:nid>100009155</d:nid>
+        <d:ccn>10022431</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-02-21T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-02-23T12:15:24Z</d:lastmodifieddate>
+        <d:blocksiteaddress>6200 B/O 7TH ST NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.9655272760414</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0224129504253</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>4</d:ward>
+        <d:anc>4B</d:anc>
+        <d:smd>4B03</d:smd>
+        <d:district>FOURTH</d:district>
+        <d:psa>402</d:psa>
+        <d:neighborhoodcluster>17</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A56.3299026Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-02-2500%3A00%3A00',RowKey='809352')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-02-2500%3A00%3A00',RowKey='809352')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-02-2500:00:00</d:PartitionKey>
+        <d:RowKey>809352</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:56.3299026Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">1ae12150-9675-47a0-a2d7-28ad772779b7</d:entityid>
+        <d:nid>809352</d:nid>
+        <d:ccn>10024153</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-02-25T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>THEFT</d:offense>
+        <d:method>1</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-08T12:26:58Z</d:lastmodifieddate>
+        <d:blocksiteaddress>900 B/O G ST NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8983129248182</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0249478606147</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>2</d:ward>
+        <d:anc>2C</d:anc>
+        <d:smd>2C03</d:smd>
+        <d:district>FIRST</d:district>
+        <d:psa>101</d:psa>
+        <d:neighborhoodcluster>8</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>DOWNTOWN BID</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A14.8447854Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-02-2700%3A00%3A00',RowKey='100009156')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-02-2700%3A00%3A00',RowKey='100009156')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-02-2700:00:00</d:PartitionKey>
+        <d:RowKey>100009156</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:14.8447854Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">382bb1c0-8af1-4971-a8fb-d909a461218b</d:entityid>
+        <d:nid>100009156</d:nid>
+        <d:ccn>10025357</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-02-27T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-01T12:27:21Z</d:lastmodifieddate>
+        <d:blocksiteaddress>300 B/O PARKLAND PL SE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8446777273441</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9998725681937</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>8</d:ward>
+        <d:anc>8C</d:anc>
+        <d:smd>8C03</d:smd>
+        <d:district>SEVENTH</d:district>
+        <d:psa>705</d:psa>
+        <d:neighborhoodcluster>39</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A53%3A05.0319026Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-03-0700%3A00%3A00',RowKey='813039')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-03-0700%3A00%3A00',RowKey='813039')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-03-0700:00:00</d:PartitionKey>
+        <d:RowKey>813039</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:53:05.0319026Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">7418c71f-43c2-4107-9a69-e0f28892b581</d:entityid>
+        <d:nid>813039</d:nid>
+        <d:ccn>10029155</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-03-07T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>STOLEN AUTO</d:offense>
+        <d:method>STOLEN AUTO</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-09T12:22:05Z</d:lastmodifieddate>
+        <d:blocksiteaddress>1300 B/O KEARNY ST NE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.9307397025328</d:latitude>
+        <d:longitude m:type="Edm.Double">-76.9873657805776</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>5</d:ward>
+        <d:anc>5A</d:anc>
+        <d:smd>5A07</d:smd>
+        <d:district>FIFTH</d:district>
+        <d:psa>502</d:psa>
+        <d:neighborhoodcluster>22</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.5249806Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-03-1000%3A00%3A00',RowKey='100009158')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-03-1000%3A00%3A00',RowKey='100009158')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-03-1000:00:00</d:PartitionKey>
+        <d:RowKey>100009158</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.5249806Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">61aa01d3-f609-40c2-a575-297ea76d522c</d:entityid>
+        <d:nid>100009158</d:nid>
+        <d:ccn>10030796</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-03-10T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-04-01T11:15:48Z</d:lastmodifieddate>
+        <d:blocksiteaddress>UNIT B/O HAWAII AVE NE</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.9467018194826</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0080533921038</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>5</d:ward>
+        <d:anc>5C</d:anc>
+        <d:smd>5C12</d:smd>
+        <d:district>FOURTH</d:district>
+        <d:psa>405</d:psa>
+        <d:neighborhoodcluster>19</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A53%3A09.4182422Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-03-1400%3A00%3A00',RowKey='816378')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-03-1400%3A00%3A00',RowKey='816378')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-03-1400:00:00</d:PartitionKey>
+        <d:RowKey>816378</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:53:09.4182422Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">e7f0be56-e70c-4646-9334-1ae629a179c4</d:entityid>
+        <d:nid>816378</d:nid>
+        <d:ccn>10032762</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-03-14T05:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>THEFT</d:offense>
+        <d:method>2</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-17T11:15:33Z</d:lastmodifieddate>
+        <d:blocksiteaddress>1500 B/O CONNECTICUT AVE NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.9107380672786</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0440777651828</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>2</d:ward>
+        <d:anc>2B</d:anc>
+        <d:smd>2B02</d:smd>
+        <d:district>SECOND</d:district>
+        <d:psa>208</d:psa>
+        <d:neighborhoodcluster>6</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A53%3A18.69746Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-03-1700%3A00%3A00',RowKey='817554')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-03-1700%3A00%3A00',RowKey='817554')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-03-1700:00:00</d:PartitionKey>
+        <d:RowKey>817554</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:53:18.69746Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">3cd71518-4ee8-4ab8-8950-7c72eddf161d</d:entityid>
+        <d:nid>817554</d:nid>
+        <d:ccn>10034356</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-03-17T04:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>STOLEN AUTO</d:offense>
+        <d:method>STOLEN AUTO</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-03-19T11:26:00Z</d:lastmodifieddate>
+        <d:blocksiteaddress>400 B/O 4TH ST NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8954355687424</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.016146506639</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>6</d:ward>
+        <d:anc>6C</d:anc>
+        <d:smd>6C09</d:smd>
+        <d:district>FIRST</d:district>
+        <d:psa>101</d:psa>
+        <d:neighborhoodcluster>8</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>DOWNTOWN BID</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.4850109Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-03-3000%3A00%3A00',RowKey='100009163')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-03-3000%3A00%3A00',RowKey='100009163')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-03-3000:00:00</d:PartitionKey>
+        <d:RowKey>100009163</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.4850109Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">663bf484-9d56-452c-b405-4f2dd8f3da67</d:entityid>
+        <d:nid>100009163</d:nid>
+        <d:ccn>10041270</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-03-30T04:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-04-01T11:15:48Z</d:lastmodifieddate>
+        <d:blocksiteaddress>4000 B/O SOUTH CAPITOL ST</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8304848531869</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0076737569154</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>8</d:ward>
+        <d:anc>8D</d:anc>
+        <d:smd>8D07</d:smd>
+        <d:district>SEVENTH</d:district>
+        <d:psa>706</d:psa>
+        <d:neighborhoodcluster>39</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.6678677Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-03-3000%3A00%3A00',RowKey='100009164')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-03-3000%3A00%3A00',RowKey='100009164')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-03-3000:00:00</d:PartitionKey>
+        <d:RowKey>100009164</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.6678677Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">628409d3-0de3-43e1-a78d-64f539dfc87e</d:entityid>
+        <d:nid>100009164</d:nid>
+        <d:ccn>10041270</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-03-30T04:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-04-01T11:15:48Z</d:lastmodifieddate>
+        <d:blocksiteaddress>4000 B/O SOUTH CAPITOL ST</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8304848531869</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0076737569154</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>8</d:ward>
+        <d:anc>8D</d:anc>
+        <d:smd>8D07</d:smd>
+        <d:district>SEVENTH</d:district>
+        <d:psa>706</d:psa>
+        <d:neighborhoodcluster>39</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.0568066Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-03-3000%3A00%3A00',RowKey='100009165')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-03-3000%3A00%3A00',RowKey='100009165')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-03-3000:00:00</d:PartitionKey>
+        <d:RowKey>100009165</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.0568066Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">d887cb44-675a-4c62-96c2-52dc5a5c1f42</d:entityid>
+        <d:nid>100009165</d:nid>
+        <d:ccn>10041270</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-03-30T04:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-04-01T11:15:48Z</d:lastmodifieddate>
+        <d:blocksiteaddress>4000 B/O SOUTH CAPITOL ST</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8304848531869</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0076737569154</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>8</d:ward>
+        <d:anc>8D</d:anc>
+        <d:smd>8D07</d:smd>
+        <d:district>SEVENTH</d:district>
+        <d:psa>706</d:psa>
+        <d:neighborhoodcluster>39</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.4927605Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-03-3000%3A00%3A00',RowKey='100009166')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-03-3000%3A00%3A00',RowKey='100009166')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-03-3000:00:00</d:PartitionKey>
+        <d:RowKey>100009166</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.4927605Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a8ea48ed-313d-49f2-9a0e-ad8d92866f8b</d:entityid>
+        <d:nid>100009166</d:nid>
+        <d:ccn>10041269</d:ccn>
+        <d:reportdatetime m:type="Edm.DateTime">2010-03-30T04:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-04-01T11:15:48Z</d:lastmodifieddate>
+        <d:blocksiteaddress>UNIT B/O GALVESTON ST SW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.8237068846152</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0076223587126</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>8</d:ward>
+        <d:anc>8D</d:anc>
+        <d:smd>8D05</d:smd>
+        <d:district>SEVENTH</d:district>
+        <d:psa>706</d:psa>
+        <d:neighborhoodcluster>39</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2010-04-08T13%3A52%3A15.5827515Z'&quot;">
+    <id>http://ogdi.cloudapp.net/v1/dc/CrimeIncidents(PartitionKey='2010-04-0600%3A00%3A00',RowKey='100009168')</id>
+    <title type="text"></title>
+    <updated>2011-06-20T21:29:25Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="CrimeIncidents" href="CrimeIncidents(PartitionKey='2010-04-0600%3A00%3A00',RowKey='100009168')" />
+    <category term="OGDI.dc." scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2010-04-0600:00:00</d:PartitionKey>
+        <d:RowKey>100009168</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2010-04-08T13:52:15.5827515Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">51913dbc-54f2-40d3-858b-53fa5bc4afc4</d:entityid>
+        <d:nid>100009168</d:nid>
+        <d:reportdatetime m:type="Edm.DateTime">2010-04-06T04:00:00Z</d:reportdatetime>
+        <d:shift>EVN</d:shift>
+        <d:offense>HOMICIDE</d:offense>
+        <d:method>GUN</d:method>
+        <d:lastmodifieddate m:type="Edm.DateTime">2010-04-07T11:15:57Z</d:lastmodifieddate>
+        <d:blocksiteaddress>2400 B/O 11TH ST NW</d:blocksiteaddress>
+        <d:narrative>NO NARRATIVE IS AVAILABLE.</d:narrative>
+        <d:latitude m:type="Edm.Double">38.9224027370485</d:latitude>
+        <d:longitude m:type="Edm.Double">-77.0270363393173</d:longitude>
+        <d:city>WASHINGTON</d:city>
+        <d:state>DC</d:state>
+        <d:ward>1</d:ward>
+        <d:anc>1B</d:anc>
+        <d:smd>1B03</d:smd>
+        <d:district>THIRD</d:district>
+        <d:psa>304</d:psa>
+        <d:neighborhoodcluster>2</d:neighborhoodcluster>
+        <d:hotspot2006name>NONE</d:hotspot2006name>
+        <d:hotspot2005name>NONE</d:hotspot2005name>
+        <d:hotspot2004name>NONE</d:hotspot2004name>
+        <d:businessimprovementdistrict>NONE</d:businessimprovementdistrict>
+        
+      </m:properties>
+    </content>
+  </entry>
+</feed>
