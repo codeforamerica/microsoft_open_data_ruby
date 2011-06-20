@@ -35,8 +35,8 @@ describe MicrosoftOpenData::Client::Api do
     
     it "should return the correct item" do
       test = @client.query('dc', 'CrimeIncidents')
-      a_get("dc/CrimeIncidents").shoul have_been_made
-      test.service.should == 1
+      a_get("dc/CrimeIncidents").should have_been_made
+      test.feed.entry[0].content.properties.city.should == 'WASHINGTON'
     end
   end
   

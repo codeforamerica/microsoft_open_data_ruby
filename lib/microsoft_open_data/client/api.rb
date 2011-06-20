@@ -9,6 +9,10 @@ module MicrosoftOpenData
           get("#{container}", options)
         end
       end
+      
+      def query(container, dataset, options={})
+        get("#{container}/#{dataset}", options)
+      end
 
     end
   end
