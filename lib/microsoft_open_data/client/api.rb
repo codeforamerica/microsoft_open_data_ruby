@@ -1,11 +1,11 @@
 module MicrosoftOpenData
   class Client
     module Api
-      
-      def catalog()
-        get("")
+
+      def catalog(params={}, options={})
+    
       end
-      
+
     end
   end
 end
