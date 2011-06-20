@@ -19,6 +19,12 @@ describe MicrosoftOpenData::Client::Api do
       a_get("").should have_been_made
       test.service.workspace.collection[0].href.should == "bls"
     end
+    
+    it "should return the correct item" do
+      test = @client.catalog('dc')
+      a_get("dc").should have_been_made
+      test.service.workspace.collection[1].href.should == "BankLocations"
+    end
   end
   
 end
