@@ -1,32 +1,27 @@
-# The Code for America RubyGem template
+Microsoft Open Data Ruby Wrapper
+================================
 
-If you want to create a new Code for America gem, you can use this gem as a template.
-It's similar to [suspenders][suspenders], but for RubyGems instead of Rails.
+A Ruby wrapper for the Microsoft Open Data API.
 
-[suspenders]: https://github.com/thoughtbot/suspenders
 
-For more information on RubyGems, you should read the [RubyGems Manuals][manuals].
+Usage
+-----
 
-[manuals]: http://docs.rubygems.org/
+    require 'microsoft_open_data'
+		MicrosoftOpenData.catalog()
+		=> Returns hash of all data containers
 
-After cloning this gem, you'll want to make the following changes:
+		MicrosoftOpenData.catalog('dc')
+		=> Returns hash all services in the District of Columbia container
+		
+		MicrosoftOpenData.query('dc', 'CrimeIncidents')
+		=> Returns hash all Crime Incidentds from the DC dataset
 
-1. Replace all instances of gem_template and GemTemplate with the snake_case and CamelCase name of your gem, respectively
-2. Add a summary and description to the [gemspec][gemspec] file
+Copyright
+---------
 
-[gemspec]: https://github.com/codeforamerica/gem_template/blob/master/gem_template.gemspec
+Copyright (c) 2011 Code for America Laboratories.
 
-This template includes:
-
-* [RSpec][rspec] for isolation testing
-* [SimpleCov][simplecov] for C0 code coverage
-* [ZenTest][zentest] for continuous testing
-* [YARD][yard] for documentation
-
-[rspec]: https://github.com/rspec/rspec
-[simplecov]: https://github.com/colszowka/simplecov
-[zentest]: https://github.com/seattlerb/zentest
-[yard]: https://github.com/lsegal/yard
-
+See LICENSE for details.
 
 [![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/microsoft_open_data_ruby.png)](http://stats.codeforamerica.org/projects/microsoft_open_data_ruby)
