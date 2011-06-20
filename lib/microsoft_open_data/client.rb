@@ -1,10 +1,10 @@
-require 'broadband_map/client'
-require 'broadband_map/client/connection'
-require 'broadband_map/client/request'
+require 'microsoft_open_data/client'
+require 'microsoft_open_data/client/connection'
+require 'microsoft_open_data/client/request'
 
 module MicrosoftOpenData
   class Client
-    include BroadbandMap::Client::Connection
-    include BroadbandMap::Client::Request
+    include MicrosoftOpenData::Client::Connection
+    include MicrosoftOpenData::Client::Request
   end
 end
