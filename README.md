@@ -81,5 +81,5 @@ See
 for details.
 
 [![Code for America
-Tracker](http://stats.codeforamerica.org/codeforamerica/code_for_america_tracking.png)](http://stats.codeforamerica.org/)
+Tracker](http://stats.codeforamerica.org/codeforamerica/microsoft_open_data_ruby.png)](http://stats.codeforamerica.org/projects/microsoft_open_data_ruby)
 
