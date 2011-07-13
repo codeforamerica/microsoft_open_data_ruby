@@ -1,7 +1,7 @@
 Microsoft Open Data Ruby Wrapper
 ================================
 
-A Ruby wrapper for the Microsoft Open Data API.
+A Ruby wrapper for the [Microsoft Open Data API](http://ogdisdk.cloudapp.net/Developers).
 
 
 Usage
