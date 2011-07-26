@@ -4,8 +4,8 @@ require File.expand_path('../lib/microsoft_open_data/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.name        = 'microsoft_open_data'
   gem.version     = MicrosoftOpenData::VERSION
-  gem.author      = "Code for America"
-  gem.email       = 'info@codeforamerica.org'
+  gem.author      = "blakeshall"
+  gem.email       = 'blake@codeforamerica.org'
   gem.homepage    = ''
   gem.summary     = %q{Ruby wrapper for Microsoft Open Government Initiative}
   gem.description = %q{Simple wrapper to access data from the Microsoft Open Government Initiative}
